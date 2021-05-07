@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: hsl(6,30%,60%);
+}
+h3{
+  font-family:'Courier New', Courier, monospace;
+background-color:rgb(204, 16, 195);
+}
+h1{
+  font-family:'Courier New', Courier, monospace;
+  
+background-color: rgb(224, 77, 150);
+}
+
+alert{
+  background-color: aqua;
+}
+
+canvas {
+  display: block;
+ 
+}
+
+
